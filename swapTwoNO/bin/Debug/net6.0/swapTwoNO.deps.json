@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "swapTwoNO/1.0.0": {
+        "runtime": {
+          "swapTwoNO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "swapTwoNO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
