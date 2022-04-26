@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alpha_Vowel/1.0.0": {
+        "runtime": {
+          "Alpha_Vowel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alpha_Vowel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
